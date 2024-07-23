@@ -1,4 +1,4 @@
-# code-with-quarkus
+# Exercício do website do Quarkus: code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
