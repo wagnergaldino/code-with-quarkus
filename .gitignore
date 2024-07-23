@@ -24,6 +24,7 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+.flattened-pom.xml
 
 ##############################
 ## Gradle
@@ -78,6 +79,7 @@ nb-configuration.xml
 ##############################
 .vscode/
 .code-workspace
+.factorypath
 
 ##############################
 ## OS X
@@ -91,3 +93,26 @@ nb-configuration.xml
 mvnw
 mvnw.cmd
 HELP.md
+
+##############################
+## VIM
+##############################
+*.swp
+*.swo
+
+##############################
+## PATCH
+##############################
+# patch
+*.orig
+*.rej
+
+##############################
+## LOCAL ENVIRONMENT
+##############################
+.env
+
+##############################
+## PLUGIN DIRECTORY
+##############################
+/.quarkus/cli/plugins/
