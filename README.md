@@ -1,1 +1,1 @@
-# code-with-quarkus
+# Exercise from Quarkus website: code-with-quarkus
